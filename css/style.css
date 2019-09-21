@@ -1,0 +1,76 @@
+.img-logo {
+    height: 60px;
+    width: 200px;
+    border-radius: 3px;
+}
+
+.navbar-brand {
+    padding-top: 3px;
+}
+
+.padded {
+    padding-right: 100px;
+}
+
+.navbar-right {
+    font-size: 18px;
+    text-shadow: 0 0 2px #f88;
+    border-radius: 10px;
+}
+
+.navbar-nav {
+    padding-top: 10px;
+    height: 64px;
+}
+
+.navbar-fixed-top {
+    background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+.or-seperator {
+    margin-top: 50px;
+    padding-left: 120px;
+    padding-right: 20px;
+}
+
+.bordered {
+    border: 1px solid #000
+}
+
+.form-padding {
+    padding-top: 15px;
+}
+
+.form-inline {
+    margin-top: 100px;
+    padding: 30px;
+}
+
+.img-circle {
+    width: 250px;
+}
+
+.top-padding {
+    padding-top: 120px;
+}
+
+.buttons {
+    margin-top: 80px;
+}
+
+.btn-lg {
+    margin: 8px;
+}
+
+.dname {
+    padding-left: 18px;
+}
+
+.form-horizontal {
+    padding-top: 20px;
+}
+
+a {
+    color: #fff;
+}
